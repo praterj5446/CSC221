@@ -5,6 +5,7 @@ CSC 221
 October 2,2019'''
 
 from room import Room
+from node import node
 
 attic = Room("Attic", '''The attic can only be reached by pulling the string that is hanging
 from the ceiling just outside the bedroom, once in the attic you get an eerie feeling as if
