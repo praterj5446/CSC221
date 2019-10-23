@@ -1,0 +1,7 @@
+
+Adventure/pycache/room.cpython-37.pyc
+Adventure/__pycache__/room.cpython-37.pyc
+*.pyc
+*.py
+Adventure/Nodes/testtwowaynode.py
+Adventure/Nodes/arrays.py
